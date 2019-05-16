@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello">哈囉!!</string>
+    <string name="str_ok">OK</string>
+    <string name="app_about_msg">對話框出現中~~~</string>
+    <string name="app_about">重要!!!</string>
+    <string name="str_button1">點我</string>
+</resources>
